@@ -1,7 +1,7 @@
 ["Tim Jones", "Tom Smith". "Jim Capagno"]
 def my_collection(array)
   i = 0
-  collection= []
+  collection = []
   while i < array.length
     collection << yield(array[i]) 
     i = i + 1
