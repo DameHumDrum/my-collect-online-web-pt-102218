@@ -7,3 +7,5 @@ def my_collection(array)
   end
   collection
 end 
+
+my_collection(array)
