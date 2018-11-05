@@ -1,3 +1,4 @@
+["Tim Jones", "Tom Smith". "Jim Capagno"]
 def my_collection(array)
   i = 0
   collection= []
@@ -8,4 +9,4 @@ def my_collection(array)
   collection
 end 
 
-my_collection(["Tim Jones", "Tom Smith". "Jim Capagno"])
+my_collection(array)
