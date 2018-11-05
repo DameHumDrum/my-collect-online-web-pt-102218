@@ -4,7 +4,6 @@ def my_collection(array)
   while i < array.length
     collection << yield(array[i]) 
     i = i + 1
-    collection
   end
   collection
 end 
