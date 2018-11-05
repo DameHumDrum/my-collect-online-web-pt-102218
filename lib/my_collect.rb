@@ -8,4 +8,4 @@ def my_collection(array)
   collection
 end 
 
-my_collection(array)
+my_collection(["Tim Jones", "Tom Smith". "Jim Capagno"])
