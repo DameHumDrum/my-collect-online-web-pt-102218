@@ -1,4 +1,3 @@
-["Tim Jones", "Tom Smith". "Jim Capagno"]
 def my_collection(array)
   i = 0
   collection = []
